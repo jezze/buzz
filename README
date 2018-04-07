@@ -1,0 +1,12 @@
+Make sure you have mplayer and youtube-dl.
+
+To play video:
+
+./play.sh <name>
+
+To cache video (to avoid downloading every time)
+
+./cache.sh <name>
+
+Running any program without arguments shows
+you what names you can use.
